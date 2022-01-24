@@ -1,3 +1,5 @@
 pragma solidity ^0.8.11;
 
-contract EthSwap {}
+contract EthSwap {
+    string public name = "EthSwap Instant Exchange";
+}
